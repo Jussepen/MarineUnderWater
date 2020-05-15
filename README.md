@@ -52,11 +52,11 @@ We would ask that any bug report contain certain information:
 - Contact Information
 
 
-Prototype
+# Prototype
 
 - Current Prototype: The current prototype only takes in images. It simulates a video with 24 fps. 
 
-Next iteration
+# Next iteration
 - implement to be able to get hd video and real time classification of fishes
 
  # Roles 
