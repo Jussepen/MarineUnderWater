@@ -4,7 +4,7 @@ Our research aims to present an efficient and effective method for the live iden
 The method to be used to identify these fish would start with the pre-processing of the video frame in our data. 
 After pre-processing, images are passed to a Deep Learning model, specifically YOLO-V2, which is based on a Convolutional Neural Network. The project is used to identify fish underwater for a user's specific choice. 
 
-Installing Our Toolset:
+# Installing Our Toolset:
 
 Run the following command to clone the repository: https://github.com/jszdeeplearning/darkflow/tree/semeredin1
 
@@ -21,7 +21,7 @@ Source Code: https://colab.research.google.com/drive/10Z3EqynwjtyMef1ag8OhTyPBXl
 To refrence the original code: https://www.datadiscuss.com/yolo-custom-model-part1/
 
 
-How to run our software:
+# How to run our software:
 Currently the best working method to run our software is through the platform Google Colab.
 
 Once the directory has been cloned,  open google colab through a google account. This can be done by opening google, opening/creating a new account, and then clicking the icon that says google colab. Another method consist of searching for google colab on the search bar. 
@@ -29,7 +29,7 @@ Once the directory has been cloned,  open google colab through a google account.
 Frequent Errors: There are some issues with parsing the correct file type. To resolve this, be sure that your images type matches with the our type. If this is not the case implement parser function to your algorithm. 
 
 
-How to use our software:
+# How to use our software:
 
 To download software refer to documentation.
 - Developers will be directed to the guide to use YOLO (You only look once algorithm).The source code is present at the bottom. 
@@ -39,7 +39,7 @@ Objective - The use of this softare is to expand the use of fish detection under
  - Clients who are people that are using the software can report bugs i.e the algorithm does not identify the correct fish. 
 
 
-How to report a bug:
+# How to report a bug:
 
 To report a bug send an email to : bugReportMarineCNN@gmail.com. Please include the following to ease finding and resolving the bug. 
 
@@ -59,7 +59,7 @@ Prototype
 Next iteration
 - implement to be able to get hd video and real time classification of fishes
 
-Roles 
+ # Roles 
 
 The roles exaplained below go beyond client spectrum and are used to describe what people working on the project should do. Take in mind that the these roles described below were selected to out of a handful of other important roles based on the impact they have on the project.
        - Developers 
