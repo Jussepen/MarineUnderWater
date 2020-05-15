@@ -66,9 +66,9 @@ The roles exaplained below go beyond client spectrum and are used to describe wh
        - Marine Biologist 
        - Photographers
        
-       Marine Biologist: Despite its large range of applications, there are still difficulties with detecting objects. Marine Biologist will be in charge of correct classification of fish when training the model and present new data if a specific type of fish is not in the data set. They will manipulate and add to the database if needed.
+Marine Biologist: Despite its large range of applications, there are still difficulties with detecting objects. Marine Biologist will be in charge of correct classification of fish when training the model and present new data if a specific type of fish is not in the data set. They will manipulate and add to the database if needed.
        
-       Photographer: There are still difficulties with detecting objects underwater due to its unique refractive properties that lead to abnormalities in lighting and color that usually are not experienced as profoundly on land. Photographers will focus on creating and processing images underwater to train the model in unique way. They will focus on helping out with  the implementation of pre-processing images before going into training.
+Photographer: There are still difficulties with detecting objects underwater due to its unique refractive properties that lead to abnormalities in lighting and color that usually are not experienced as profoundly on land. Photographers will focus on creating and processing images underwater to train the model in unique way. They will focus on helping out with  the implementation of pre-processing images before going into training.
        
        
  Disclaimer: 
